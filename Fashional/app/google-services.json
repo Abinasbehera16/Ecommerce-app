@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82189036233",
+    "firebase_url": "https://fashional-b77d6.firebaseio.com",
+    "project_id": "fashional-b77d6",
+    "storage_bucket": "fashional-b77d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82189036233:android:c7306ab9ab7aaa5a2ffb18",
+        "android_client_info": {
+          "package_name": "com.example.fashional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82189036233-ioeajjrpdr7hrev20jm3v8trtjabajrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashional",
+            "certificate_hash": "70bf676856525c22b79f384e42545d8524caa9df"
+          }
+        },
+        {
+          "client_id": "82189036233-5sscpf6gfk1p04qdv9fbqs788q1o1jd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmv9tMfaFRuopbzmK3KGKB16oQyfhIZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82189036233-5sscpf6gfk1p04qdv9fbqs788q1o1jd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
